@@ -7,6 +7,15 @@ I started learning a Front-end Development seven months ago. Since then, I have 
 React · TypeScript · JavaScript · Redux · Zustand · RTK Query · Redux Thunk · React Router · Node.js · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp.js · Git · Figma (Software)
 
 
+## My projects
+- (my npm package for form validation)[https://github.com/Kallenju/simpower-validation]
+- (High pass website)[https://github.com/Kallenju/high-pass]
+- (Euclide website)[https://github.com/Kallenju/euclid]
+- (Blanchard HTML email)[https://github.com/Kallenju/blanchard-html-email]
+- (To Do App)[https://github.com/Kallenju/ToDoApp]
+- (Template for a project with React, TypeScript, SSR, and HMR)[https://github.com/Kallenju/template-for-react-ts-ssr-hmr]
+
+
 ## Brief information:
 - 🌱 I’m currently doing deep dive on React and related technologies (Redux, RTK, RTK Query, Zustand, react-hook-form, react-router).
 - 🧑‍💼 I'm seeking for a new job oppertunity
