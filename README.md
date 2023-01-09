@@ -9,11 +9,11 @@ React · TypeScript · JavaScript · Redux · Zustand · RTK Query · Redux Thun
 
 ## My projects
 - [my npm package for form validation](https://github.com/Kallenju/simpower-validation)
-- [High pass website](https://kallenju.github.io/high-pass/). [Source code](https://github.com/Kallenju/high-pass)
-- [Euclide website](https://kallenju.github.io/euclid/). [Source code](https://github.com/Kallenju/euclid)
-- [Blanchard HTML email](https://kallenju.github.io/blanchard-html-email/). [Source code](https://github.com/Kallenju/blanchard-html-email)
-- (To Do App)[https://github.com/Kallenju/ToDoApp]
-- (Template for a project with React, TypeScript, SSR, and HMR)[https://github.com/Kallenju/template-for-react-ts-ssr-hmr]
+- [High pass website](https://kallenju.github.io/high-pass/). Source code: https://github.com/Kallenju/high-pass
+- [Euclide website](https://kallenju.github.io/euclid/). Source code: https://github.com/Kallenju/euclid
+- [Blanchard HTML email](https://kallenju.github.io/blanchard-html-email/). Source code: https://github.com/Kallenju/blanchard-html-email
+- [To Do App](https://github.com/Kallenju/ToDoApp)
+- [Template for a project with React, TypeScript, SSR, and HMR](https://github.com/Kallenju/template-for-react-ts-ssr-hmr)
 
 
 ## Brief information:
