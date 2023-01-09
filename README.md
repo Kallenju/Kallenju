@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Kallenju/Kallenju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Konstantin Solovev. I'm 25 years old.
+I started learning a Front-end Development seven months ago. Since then, I have learned many technologies and made several projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My tech stack:
+
+React · TypeScript · JavaScript · Redux · Zustand · RTK Query · Redux Thunk · React Router · Node.js · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp.js · Git · Figma (Software)
+
+
+## Brief information:
+
+- 🌱 I’m currently doing deep dive on React and related technologies (Redux, RTK, RTK Query, Zustand, react-hook-form, react-router).
+- 🧑‍💼 I'm seeking for a new job oppertunity
+
+
+## 📫 How to reach me:
+
+1) email: kostyasolovyov54@gmail.com
+2) LinkedIn: www.linkedin.com/in/solovkonst
+3) telegram: @magickonst
+4) Facebook: www.facebook.com/magickonst
+5) twitter: www.twitter.com/MagicKonst
