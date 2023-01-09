@@ -1,5 +1,4 @@
-# Hi there 👋
-
+### Hi there 👋
 My name is Konstantin Solovev. I'm 25 years old.
 I started learning a Front-end Development seven months ago. Since then, I have learned many technologies and made several projects.
 
