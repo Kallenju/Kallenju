@@ -9,7 +9,7 @@ React · TypeScript · JavaScript · Redux · Zustand · RTK Query · Redux Thun
 
 ## My projects
 - [my npm package for form validation](https://github.com/Kallenju/simpower-validation)
-- [Mirror of Reddit on React, RTK, React-Router with SSR](http://ec2-3-126-240-154.eu-central-1.compute.amazonaws.com). Source code: https://github.com/Kallenju/reddit-mirror
+- [Mirror of Reddit on React, RTK, React-Router with SSR](https://github.com/Kallenju/reddit-mirror)
 - [High pass website](https://kallenju.github.io/high-pass/). Source code: https://github.com/Kallenju/high-pass
 - [Euclide website](https://kallenju.github.io/euclid/). Source code: https://github.com/Kallenju/euclid
 - [bootstrap-3d-courses](https://kallenju.github.io/bootstrap-3d-courses/). Source code: https://github.com/Kallenju/bootstrap-3d-courses
