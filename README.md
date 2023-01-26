@@ -26,6 +26,6 @@ React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Ro
 ## 📫 How to reach me:
 1) email: kostyasolovyov54@gmail.com
 2) LinkedIn: www.linkedin.com/in/solovkonst
-3) telegram: @magickonst
+3) telegram: @Kallenju (preferable) or @magickonst
 4) Facebook: www.facebook.com/magickonst
 5) twitter: www.twitter.com/MagicKonst
