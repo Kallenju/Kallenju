@@ -4,7 +4,7 @@ I started learning a Front-end Development seven months ago. Since then, I have 
 
 
 ## My tech stack:
-React · TypeScript · JavaScript · Redux · Zustand · RTK Query · Redux Thunk · React Router · Node.js · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp.js · Git · Figma (Software)
+React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Router · Node.js · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp.js · Git · Figma (Software)
 
 
 ## My projects
@@ -19,8 +19,8 @@ React · TypeScript · JavaScript · Redux · Zustand · RTK Query · Redux Thun
 
 
 ## Brief information:
-- 🌱 I’m currently doing deep dive on React and related technologies (Redux, RTK, RTK Query, Zustand, react-hook-form, react-router).
-- 🧑‍💼 I'm seeking for a new job oppertunity
+- 💼 I work for LinkedHelper.
+- 🌱 I’m currently doing deep dive on React and related technologies (Redux, RTK, Zustand, react-hook-form, react-router).
 
 
 ## 📫 How to reach me:
