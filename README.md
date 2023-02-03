@@ -4,7 +4,7 @@ I started learning a Front-end Development seven months ago. Since then, I have 
 
 
 ## My tech stack:
-React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Router · Node · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp · Git · Figma
+React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Router · Node · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp · Git · Figma
 
 
 ## My projects
