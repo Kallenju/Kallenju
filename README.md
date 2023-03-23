@@ -1,10 +1,8 @@
 ### Hi there 👋
-My name is Konstantin Solovev. I'm 25 years old.
-I started learning a Front-end Development seven months ago. Since then, I have learned many technologies and made several projects.
-
+My name is Konstantin Solovev. I'm 25 years old. I'm full stack and passionate programmer man
 
 ## My tech stack:
-React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Router · Node · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp · Git · Figma
+React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Router · RxJS · Node · TypeORM · PostgreSQL · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp · Git · Figma
 
 
 ## My projects
@@ -20,7 +18,7 @@ React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Ro
 
 ## Brief information:
 - 💼 I work for LinkedHelper.
-- 🌱 I’m currently doing deep dive on React and related technologies (Redux, RTK, Zustand, react-hook-form, react-router).
+- 🌱 I’m currently doing deep dive on React, RxJS, TypeORM, PostgreSQL and MongoDB.
 
 
 ## 📫 How to reach me:
