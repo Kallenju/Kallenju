@@ -17,7 +17,7 @@ React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Ro
 
 
 ## Brief information:
-- 💼 I work for LinkedHelper.
+- 💼 I work for Linked Helper.
 - 🌱 I’m currently doing deep dive on NodeJS and Data Structure and Algorithms.
 
 
