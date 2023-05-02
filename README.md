@@ -2,7 +2,7 @@
 My name is Konstantin Solovev. I'm 25 years old. I'm full stack and passionate programmer man
 
 ## My tech stack:
-React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Router · RxJS · Node · TypeORM · PostgreSQL · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp · Git · Figma
+React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Router · RxJS · Node · Express · TypeORM · PostgreSQL · Jest · HTML · CSS · Stylus · SASS · Bootstrap · Webpack · Gulp · Git · Figma
 
 
 ## My projects
@@ -18,7 +18,7 @@ React · TypeScript · JavaScript · Redux · Zustand · Redux Thunk · React Ro
 
 ## Brief information:
 - 💼 I work for LinkedHelper.
-- 🌱 I’m currently doing deep dive on React, RxJS, TypeORM, PostgreSQL and MongoDB.
+- 🌱 I’m currently doing deep dive on NodeJS and Data Structure and Algorithms.
 
 
 ## 📫 How to reach me:
