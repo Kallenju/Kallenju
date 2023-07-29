@@ -1,4 +1,4 @@
-[Code Wars](https://www.codewars.com/users/Kallenju/badges/large)
+<img src="https://www.codewars.com/users/Kallenju/badges/large">
 
 ### Hi there 👋
 My name is Konstantin Solovev. I'm 25 years old. I'm full stack and passionate programmer man
