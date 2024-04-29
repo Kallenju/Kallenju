@@ -4,9 +4,12 @@
 My name is Konstantin Solovev. I'm 26 years old. I'm full stack and passionate programmer man
 
 ## My tech stack:
-### 🛠️ Front-end Tech Stack: Next.js, React, Tailwind CSS, Redux, Zustand, RxJS, Electron, TypeScript, JavaScript, HTML, EJS, CSS, SASS, Stylus, Bootstrap.
-### 🛠️ Back-end Tech Stack: Express, Node.js, PostgreSQL, SQLite, Redis, MongoDB, TypeORM, Jest, Node Tap, TypeScript, JavaScript.
-### 🛠️ DevOps Tech Stack: Nginx, Docker (Docker Compose), GitHub Actions, Webpack, SWC, Gulp, ESLint, Prettier, Git.
+### 🛠️ Front-end Tech Stack:
+  Next.js, React, Tailwind CSS, Redux, Zustand, RxJS, Electron, TypeScript, JavaScript, HTML, EJS, CSS, SASS, Stylus, Bootstrap.
+### 🛠️ Back-end Tech Stack:
+  Express, Node.js, PostgreSQL, SQLite, Redis, MongoDB, TypeORM, Jest, Node Tap, TypeScript, JavaScript.
+### 🛠️ DevOps Tech Stack:
+  Nginx, Docker (Docker Compose), GitHub Actions, Webpack, SWC, Gulp, ESLint, Prettier, Git.
 
 
 ## My projects
