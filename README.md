@@ -39,11 +39,3 @@ My name is Konstantin Solovev. I'm 26 years old. I'm full stack and passionate p
 
 ## Brief information:
 - 🌱 I’m currently doing deep dive on Docker, AWS and other DevOps technologies.
-
-
-## 📫 How to reach me:
-1) email: kostyasolovyov54@gmail.com
-2) LinkedIn: www.linkedin.com/in/solovkonst
-3) telegram: @Kallenju
-4) Facebook: www.facebook.com/magickonst
-5) twitter: www.twitter.com/MagicKonst
