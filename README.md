@@ -38,4 +38,4 @@ My name is Konstantin Solovev. I'm 26 years old. I'm full stack and passionate p
 
 
 ## Brief information:
-- 🌱 I’m currently doing deep dive on Docker, AWS and other DevOps technologies.
+- 🌱 I’m currently doing deep dive into Python
